@@ -1,0 +1,94 @@
+
+*{
+    padding:0;
+    margin:0;
+
+}
+ul li{
+    
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+.toper{
+    background-color: #316dc3;
+    color: #ffffff;
+}
+.toper a{   
+    color: green;
+}
+.pic img{
+    width: 100%;   
+}
+.slid marquee{
+    background-color: #316dc3;
+    color: #ffffff;
+}
+
+.intro h2{
+ color:#316dc3;
+}
+.intro h2 span{
+    color:green ;
+}
+.para p{
+    line-height: 1.9em;
+    text-align: justify;
+}
+.conter{
+    background-color: #316dc3;
+    color: #ffffff;
+}
+
+.conter span{
+    color: rgb(42, 241, 42);
+}
+.wedo span{
+color: green;
+}
+.conter{
+    text-transform: uppercase;
+}
+.wedo h3{
+    color: #316dc3;
+}
+
+.wedo-box{
+    background-color:rgb(255, 255, 255);
+    border: gray;
+    box-shadow: grey 2px 2px 8px 2px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: blue;
+} 
+.mission h3,span{
+    color: blue;
+}
+.mission marquee{
+    line-height: 1.8em;
+    text-align: justify;
+}
+
+.mission-box{
+    background-color: rgb(235, 247, 235);
+}
+
+.image h3 {
+    color: blue;
+}
+.image span{
+    color: green;
+}
+.bottom{
+    background-color: #316dc3;
+    color: #ffffff;
+}
+.detail{
+    margin-top: 80px;
+    background-color: #000;
+    color: #ffffff;
+}
+
+
